@@ -67,6 +67,7 @@ Risk Level: Critical
 Multiple laboratory reports were accessible after authentication controls were bypassed, demonstrating weaknesses in access control and protection of confidential medical information.
 
 Risk Level: Critical
+[Mediroza_Report_Week4_B084_Purple_Final.pdf](https://github.com/user-attachments/files/35333944/Mediroza_Report_Week4_B084_Purple_Final.pdf)
 
 3. Weak PDF Password Protection
 
